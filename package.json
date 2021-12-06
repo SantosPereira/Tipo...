@@ -1,0 +1,25 @@
+{
+  "name": "tipo",
+  "version": "1.0.0",
+  "description": "Repositório para guardar experimentações utilizando o superconjunto tipado do JavaScript, o TypeScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosPereira/Tipo....git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "@SantosPereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosPereira/Tipo.../issues"
+  },
+  "homepage": "https://github.com/SantosPereira/Tipo...#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
